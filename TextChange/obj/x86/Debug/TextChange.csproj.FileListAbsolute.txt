@@ -1,0 +1,88 @@
+D:\303\Dorma\TextChange\TextChange\bin\Debug\TextChange.exe
+D:\303\Dorma\TextChange\TextChange\bin\Debug\TextChange.pdb
+D:\303\Dorma\TextChange\TextChange\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\303\Dorma\TextChange\TextChange\obj\x86\Debug\TextChange.Properties.Resources.resources
+D:\303\Dorma\TextChange\TextChange\obj\x86\Debug\TextChange.TextChange.resources
+D:\303\Dorma\TextChange\TextChange\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\303\Dorma\TextChange\TextChange\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\303\Dorma\TextChange\TextChange\obj\x86\Debug\TextChange.exe
+D:\303\Dorma\TextChange\TextChange\obj\x86\Debug\TextChange.pdb
+F:\TextChange\TextChange\obj\x86\Debug\TextChange.exe
+F:\TextChange\TextChange\obj\x86\Debug\TextChange.pdb
+F:\TextChange\TextChange\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\TextChange\TextChange\obj\x86\Debug\TextChange.Properties.Resources.resources
+F:\TextChange\TextChange\obj\x86\Debug\TextChange.TextChange.resources
+F:\TextChange\TextChange\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\TextChange\TextChange\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\TextChange\TextChange\bin\Debug\TextChange.exe
+F:\TextChange\TextChange\bin\Debug\TextChange.pdb
+D:\TextChange Alfa\TextChange\bin\Debug\TextChange.exe
+D:\TextChange Alfa\TextChange\bin\Debug\TextChange.pdb
+D:\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.csprojAssemblyReference.cache
+D:\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.Properties.Resources.resources
+D:\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.TextChange.resources
+D:\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.csproj.GenerateResource.cache
+D:\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.csproj.CoreCompileInputs.cache
+D:\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.exe
+D:\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.pdb
+C:\Users\Kerman\Desktop\TextChange Alfa\TextChange\bin\Debug\TextChange.exe
+C:\Users\Kerman\Desktop\TextChange Alfa\TextChange\bin\Debug\TextChange.pdb
+C:\Users\Kerman\Desktop\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.csprojAssemblyReference.cache
+C:\Users\Kerman\Desktop\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.TextChangeForm.resources
+C:\Users\Kerman\Desktop\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.Properties.Resources.resources
+C:\Users\Kerman\Desktop\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.TextChange.resources
+C:\Users\Kerman\Desktop\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.csproj.GenerateResource.cache
+C:\Users\Kerman\Desktop\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.csproj.CoreCompileInputs.cache
+C:\Users\Kerman\Desktop\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.exe
+C:\Users\Kerman\Desktop\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.pdb
+E:\Универ\5 семестр\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.exe
+E:\Универ\5 семестр\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.pdb
+E:\Универ\5 семестр\TextChange Alfa\TextChange\bin\Debug\TextChange.exe
+E:\Универ\5 семестр\TextChange Alfa\TextChange\bin\Debug\TextChange.pdb
+E:\Универ\5 семестр\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.csprojResolveAssemblyReference.cache
+E:\Универ\5 семестр\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.TextChangeForm.resources
+E:\Универ\5 семестр\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.Properties.Resources.resources
+E:\Универ\5 семестр\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.TextChange.resources
+E:\Универ\5 семестр\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.csproj.GenerateResource.Cache
+E:\Универ\5 семестр\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.About.resources
+E:\Универ\5 семестр\TextChange Alfa\TextChange\bin\Debug\TextChange.exe.config
+D:\303 Дорма\TextChange Alfa\TextChange\bin\Debug\TextChange.exe.config
+D:\303 Дорма\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.exe
+D:\303 Дорма\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.pdb
+D:\303 Дорма\TextChange Alfa\TextChange\bin\Debug\TextChange.exe
+D:\303 Дорма\TextChange Alfa\TextChange\bin\Debug\TextChange.pdb
+D:\303 Дорма\TextChange Alfa\TextChange\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\303 Дорма\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.About.resources
+D:\303 Дорма\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.TextChangeForm.resources
+D:\303 Дорма\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.Properties.Resources.resources
+D:\303 Дорма\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.TextChange.resources
+D:\303 Дорма\TextChange Alfa\TextChange\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\303 Дорма\TextChange Alfa\TextChange\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\303 Дорма\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.Find.resources
+D:\303 Дорма\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.Replace.resources
+E:\Универ\5 семестр\Марков\TextChange Alfa\TextChange\bin\Debug\TextChange.exe.config
+E:\Универ\5 семестр\Марков\TextChange Alfa\TextChange\bin\Debug\TextChange.exe
+E:\Универ\5 семестр\Марков\TextChange Alfa\TextChange\bin\Debug\TextChange.pdb
+E:\Универ\5 семестр\Марков\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.csprojResolveAssemblyReference.cache
+E:\Универ\5 семестр\Марков\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.About.resources
+E:\Универ\5 семестр\Марков\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.Find.resources
+E:\Универ\5 семестр\Марков\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.TextChangeForm.resources
+E:\Универ\5 семестр\Марков\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.Properties.Resources.resources
+E:\Универ\5 семестр\Марков\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.Replace.resources
+E:\Универ\5 семестр\Марков\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.TextChange.resources
+E:\Универ\5 семестр\Марков\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.csproj.GenerateResource.Cache
+E:\Универ\5 семестр\Марков\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.exe
+E:\Универ\5 семестр\Марков\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.pdb
+D:\Универ\5 семестр\Марков\TextChange Alfa\TextChange\bin\Debug\TextChange.exe.config
+D:\Универ\5 семестр\Марков\TextChange Alfa\TextChange\bin\Debug\TextChange.exe
+D:\Универ\5 семестр\Марков\TextChange Alfa\TextChange\bin\Debug\TextChange.pdb
+D:\Универ\5 семестр\Марков\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.csprojResolveAssemblyReference.cache
+D:\Универ\5 семестр\Марков\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.About.resources
+D:\Универ\5 семестр\Марков\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.Find.resources
+D:\Универ\5 семестр\Марков\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.TextChangeForm.resources
+D:\Универ\5 семестр\Марков\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.Properties.Resources.resources
+D:\Универ\5 семестр\Марков\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.Replace.resources
+D:\Универ\5 семестр\Марков\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.TextChange.resources
+D:\Универ\5 семестр\Марков\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.csproj.GenerateResource.Cache
+D:\Универ\5 семестр\Марков\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.exe
+D:\Универ\5 семестр\Марков\TextChange Alfa\TextChange\obj\x86\Debug\TextChange.pdb
